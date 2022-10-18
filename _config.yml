@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bowen's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bowen Zhao"
+description              : &description "I am a dual-degree master student from Tsinghua University (Master of Science in Data Science and Information Technology) and University of Washington (Master of Science in Technology Innovation). I am currently in Bellevue. My research interests are natural language processing, knowledge engineering, causal inference, and data mining."
+url                      : https://ROIM1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ROIM1998/ROIM1998.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bowen Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "I am a dual-degree master student from Tsinghua University (Master of Science in Data Science and Information Technology) and University of Washington (Master of Science in Technology Innovation). I am currently in Bellevue. My research interests are natural language processing, knowledge engineering, causal inference, and data mining."
+  location         : "Bellevue, US"
+  employer         : "University of Washington"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "bowen98@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ROIM1998"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "bowenroim1998"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "bowen-zhao-760b83225"
+  orcid            : "http://orcid.org/0000-0001-7001-0675"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "BowenROIM"
   vine             :
   weibo            :
   xing             :
