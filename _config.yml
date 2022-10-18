@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bowen's Personal Website"
 title_separator          : "-"
 name                     : &name "Bowen Zhao"
-description              : &description "I am a dual-degree master student from Tsinghua University (Master of Science in Data Science and Information Technology) and University of Washington (Master of Science in Technology Innovation). I am currently in Bellevue. My research interests are natural language processing, knowledge engineering, causal inference, and data mining."
+description              : &description "Hi there! I am Bowen Zhao, a dual-degree master student from Tsinghua University (Master of Science in Data Science and Information Technology) and University of Washington (Master of Science in Technology Innovation). I received my B.Eng degree in Computer Science and Technology from Tsinghua University in 2021. I am currently in Bellevue. My research interests are natural language processing, knowledge engineering, causal inference, and data mining."
 url                      : https://ROIM1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ROIM1998/ROIM1998.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Bowen Zhao"
-  avatar           : "profile.png"
-  bio              : "I am a dual-degree master student from Tsinghua University (Master of Science in Data Science and Information Technology) and University of Washington (Master of Science in Technology Innovation). I am currently in Bellevue. My research interests are natural language processing, knowledge engineering, causal inference, and data mining."
+  avatar           : "personal-avatar.jpeg"
+  bio              : "Hi! I'm Bowen Zhao, a dual-degree master student from Tsinghua University and University of Washington. My research interests are NLP, knowledge engineering, causal inference, etc."
   location         : "Bellevue, US"
   employer         : "University of Washington"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=mBJItX8AAAAJ"
   email            : "bowen98@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
