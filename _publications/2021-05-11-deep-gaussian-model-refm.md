@@ -1,7 +1,7 @@
 ---
 title: "Deep Gaussian Mixture Model on Multiple Interpretable Features of Fetal Heart Rate for Pregnancy Wellness"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: publications/2021-05-11-deep-gaussian-model-refm
 date: 2021-05-11
 venue: 'PAKDD 2021'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-75762-5_20'
