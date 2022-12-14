@@ -21,7 +21,7 @@ During the era of the Fourth Industrial Revolution, cloud computing has become a
 
 ### Problem Scoping
 
-From our secondary research, we found out that a single datacenter’s power usage is equal to 50,000 homes. Moreover, for each gigabyte file stored online, it consumes **3-7 kWh of power usage** every year, which is about **********************************1.9 kg of CO2 emission per year.********************************** It is about ******************************************1 million times carbon emission****************************************** if you store your file online instead of on your own device. Therefore, we found that we should promote the efficiency of cloud storage to reduce wasted carbon emissions.
+From our secondary research, we found out that a single datacenter’s power usage is equal to 50,000 homes. Moreover, for each gigabyte file stored online, it consumes **3-7 kWh of power usage** every year, which is about **1.9 kg of CO2 emission per year.** It is about **1 million times carbon emission** if you store your file online instead of on your own device. Therefore, we found that we should promote the efficiency of cloud storage to reduce wasted carbon emissions.
 
 ## Primary & Secondary Researches
 
@@ -34,7 +34,7 @@ We found the following results from our secondary research:
 3. The key benefit of storing your files on iCloud drive is the ability to share them easily, both with access to personal use and teamwork. It is an attractive option for creators who might need extra storage space.
 4. The advantages of cloud usage are more convenient to use without a physical drive, remotely updating & sync your files, and keeping their files encrypted.
 
-****Areas to improve:**** I think I should do more comprehensive secondary research the next time. For this course, our time was limited for scoping (maybe less than one week), so we did not get every information that we need to settle down the scope at the start point. As a result, our design question changed multiple times after our proposal, but that is actually something we have anticipated.
+**Areas to improve:** I think I should do more comprehensive secondary research the next time. For this course, our time was limited for scoping (maybe less than one week), so we did not get every information that we need to settle down the scope at the start point. As a result, our design question changed multiple times after our proposal, but that is actually something we have anticipated.
 
 ### Primary Research
 
@@ -53,7 +53,7 @@ Meanwhile, for our survey, we found out that:
 4. Most respondents upload their local images, video, and texts while working.
 5. Most of the respondents think that the drawback of cloud storage is that it is internet dependent and needs cost for extra space.
 
-************************************Areas to improve:************************************ another thing that I could improve had I done this design problem another time is to add some statistical analysis to our survey. Most of our survey results are qualitative instead of quantitive. I think it would be better if I could do a thorough analysis of the gathered data so that we could know more about the users concerned.
+**Areas to improve:** another thing that I could improve had I done this design problem another time is to add some statistical analysis to our survey. Most of our survey results are qualitative instead of quantitive. I think it would be better if I could do a thorough analysis of the gathered data so that we could know more about the users concerned.
 
 ### Persona
 
@@ -95,7 +95,7 @@ Drawing from our user research results, we set up the following design requireme
 7. **Create an app** that can easily synchronize different cloud storage platforms. (Medium)
 8. The platform should **meet some basic safety requirements** (Medium)
 
-************************************Areas to improve:************************************ at first, we did not know that we should do the triangulated insights to bring out those requirements, so that was actually a big mistake, since we need the information gathered from the secondary research, the field study, and the survey to know user’s patterns. Therefore, our design requirements were not ideal (for the first version without the triangulated insights). I think the next time, we should first get the triangulated insights done carefully, and find out those overlapping parts which let us know users better.
+**Areas to improve:** at first, we did not know that we should do the triangulated insights to bring out those requirements, so that was actually a big mistake, since we need the information gathered from the secondary research, the field study, and the survey to know user’s patterns. Therefore, our design requirements were not ideal (for the first version without the triangulated insights). I think the next time, we should first get the triangulated insights done carefully, and find out those overlapping parts which let us know users better.
 
 ## Ideation
 
@@ -108,7 +108,7 @@ After settling down the design requirements, we gathered together for a brainsto
 
 After several iterations, we finally settled down our functionalities from both hardware and software perspectives. In order to let the users use our product in the most user-friendly way, we choose to embed our hardware component in phone or laptop chargers so that users do not need to connect them to their devices specifically. Meanwhile, this reduces the manufacturing cost of our product. As for the software, we designed both PC and mobile platforms, so users could manage their cloud usage with their multiple devices, and they could also use our application to transfer files in a carbon-friendly way.
 
- ********************************Areas to improve******************************** : one thing that we did not do pretty well during ideation was that we did not figure out what functionalities our product should have in the first place. Actually, we changed our ideas for our product’s core functionalities multiple times even after the prototyping and evaluation. Although it is true that evaluation is conducted for us to better design our product, changing our product’s major functionalities should not be done after that. Fortunately, we settled down the functionalities after another meeting in the final week, and our product’s key functions are summarized as follows:
+**Areas to improve:** one thing that we did not do pretty well during ideation was that we did not figure out what functionalities our product should have in the first place. Actually, we changed our ideas for our product’s core functionalities multiple times even after the prototyping and evaluation. Although it is true that evaluation is conducted for us to better design our product, changing our product’s major functionalities should not be done after that. Fortunately, we settled down the functionalities after another meeting in the final week, and our product’s key functions are summarized as follows:
 
 <img src='/images/CBridge-functions.png'>
 
@@ -155,3 +155,11 @@ In general, we found the issues below during our evaluation:
    The time during the usability test was longer than what we expected, which shows that we are not familiar with user flow and provide a well-organized prototype. Users need more time and reminder; For this issue, we need to simplify each step, and reorganize our sequence of order.
 
 ## Critical Reflection
+
+Overall, I think this course project is a good experience for me, because I no nothing about design thinking beforehand. It taught me some basic essentials for designing in a quite short period of time, and I’m glad that my teammates helped me a lot during accomplishing this project while most of them have a strong background of design.
+
+I **really appreciate the hard works my teammates have done through this whole procedure**. At the beginning of this quarter, I even doubted whether this idea would work because I think it would be very difficult for us to develop a useful tool to change users’ habits of using cloud storage. Even though we did not publish a software in the end, it still gave us hope that this product could be fulfilled in the future, and this is actually the good part of a design thinking product: the product might not be built fully, but its concepts are workable so it might be built in the future.
+
+For me, **I really think the hardest part of this project is its time limitation**. For each week, we are required to submit a report step by step. Had we got more time to finish this, I believe we could even build this app up and publish it on the App Store. Also, because of the time limitation, we couldn’t think everything carefully during accomplishing this project. For example, we missed the triangulated insights part for design requirements, and we did not even settle down the key functionalities of our product in the last two weeks.
+
+Finally, to be honest, since I would like to be an AI researcher in the future, **I would not say the thinking strategy this course has taught me would mean much in my future career**. However, I appreciate that this course has gave me a new perspective for problem solving, even though they are totally different from my research-based problem solving strategy. Also, I think this course let me have a better taste for design in the future. Even though I might not design anything from now on, I could still tell what designs are good and what are bad. In general, I think this course challenged me a lot, from the perspective of being a course itself, and also by its way of thinking and value.
